@@ -1,3 +1,11 @@
+# Deprecation Notice
+
+This public repository is no longer maintained.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
+
 # Artifact of the Month
 
 [![Build Status][test-image]][test-url]
